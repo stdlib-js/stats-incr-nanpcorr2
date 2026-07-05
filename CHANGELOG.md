@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`455e6ec`](https://github.com/stdlib-js/stdlib/commit/455e6ec92a96906468e40a75adcf9dfd355b14a8) - **chore:** clean-up _(by Athan Reines)_
 -   [`6570c4f`](https://github.com/stdlib-js/stdlib/commit/6570c4fed89e7565e0c7d07f9f6159c47ba30eff) - **feat:** add `stats/incr/nanpcorr2` [(#6292)](https://github.com/stdlib-js/stdlib/pull/6292) _(by Hemang Choudhary, Philipp Burckhardt, stdlib-bot)_
 
 </details>
@@ -46,8 +47,9 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Hemang Choudhary
 -   Philipp Burckhardt
 
