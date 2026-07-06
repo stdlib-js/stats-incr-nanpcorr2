@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-07-05)
+## Unreleased (2026-07-06)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`97a25cb`](https://github.com/stdlib-js/stdlib/commit/97a25cba301263b4ae206940a37a6d02f8c9baf7) - **chore:** follow-up fixes for commits merged to `develop` [(#13327)](https://github.com/stdlib-js/stdlib/pull/13327) _(by Philipp Burckhardt)_
 -   [`455e6ec`](https://github.com/stdlib-js/stdlib/commit/455e6ec92a96906468e40a75adcf9dfd355b14a8) - **chore:** clean-up _(by Athan Reines)_
 -   [`6570c4f`](https://github.com/stdlib-js/stdlib/commit/6570c4fed89e7565e0c7d07f9f6159c47ba30eff) - **feat:** add `stats/incr/nanpcorr2` [(#6292)](https://github.com/stdlib-js/stdlib/pull/6292) _(by Hemang Choudhary, Philipp Burckhardt, stdlib-bot)_
 
